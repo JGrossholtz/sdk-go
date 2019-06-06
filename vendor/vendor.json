@@ -1,0 +1,139 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "CSPbwbyzqA6sfORicn4HFtIhF/c=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "d8f796af33cc11cb798c1aaeb27a4ebc5099927d",
+			"revisionTime": "2018-08-30T19:11:22Z"
+		},
+		{
+			"checksumSHA1": "3ORLCzeT6ci2RkN0jo1bY6bmE8A=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "80c2d40e9b91f2ef7a9c1a403aeec64d1b89a9a6",
+			"revisionTime": "2019-04-27T04:03:06Z"
+		},
+		{
+			"checksumSHA1": "nsfXTvU80W3s8az/0WOIbx/JwUs=",
+			"path": "github.com/kuzzleio/sdk-go/auth",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "dDzQLu6nlCgcHGMVc1ytJC96um8=",
+			"path": "github.com/kuzzleio/sdk-go/collection",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "RMwEeGAsSYsNL9dNvfwlaBCDlwY=",
+			"path": "github.com/kuzzleio/sdk-go/document",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "QyCWPBV/5kCzIvsFF94o5gr5fPE=",
+			"path": "github.com/kuzzleio/sdk-go/event",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "Upk+LGNinsYRI9TQCxiOxBkLCtM=",
+			"path": "github.com/kuzzleio/sdk-go/index",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "VYi7E1LhG18EJIgF9PCB6vBBHds=",
+			"path": "github.com/kuzzleio/sdk-go/internal",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "Jfu8K9Vv2jnTqIslNwmXXbisql8=",
+			"path": "github.com/kuzzleio/sdk-go/kuzzle",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "ts057YYp0ijtLo1kEWvqxWd1yyA=",
+			"path": "github.com/kuzzleio/sdk-go/ms",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "wSMNolzshRkAqZ8oSykJ/keDI6w=",
+			"path": "github.com/kuzzleio/sdk-go/protocol",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "YMDZtBC7q9xyduELiSrC0UtciV8=",
+			"path": "github.com/kuzzleio/sdk-go/protocol/websocket",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "CTjHzU8ZqL+MGeJ+qpjJHaXmLSg=",
+			"path": "github.com/kuzzleio/sdk-go/realtime",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "qS8QoV9iTnWECxXNBh5In4hzqBU=",
+			"path": "github.com/kuzzleio/sdk-go/security",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "NqLi9B7QvcIoS8njxO7m1hzQYZk=",
+			"path": "github.com/kuzzleio/sdk-go/server",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "swdxJik7KMCaDEuf5pMLbUjoW2Q=",
+			"path": "github.com/kuzzleio/sdk-go/state",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "0VYYBvvSDAUXhtKfADkLUZ+UFms=",
+			"path": "github.com/kuzzleio/sdk-go/types",
+			"revision": "de4982fcd4d89b0520153079b230cf876c38f1d7",
+			"revisionTime": "2019-06-05T14:53:14Z"
+		},
+		{
+			"checksumSHA1": "LuFv4/jlrmFNnDb/5SCSEPAM9vU=",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "5d4384ee4fb2527b0a1256a821ebfc92f91efefc",
+			"revisionTime": "2018-12-26T10:54:42Z"
+		},
+		{
+			"checksumSHA1": "Tutue3nEgM/87jitUcYv6ODwyNE=",
+			"path": "github.com/satori/go.uuid",
+			"revision": "b2ce2384e17bbe0c6d34077efa39dbab3e09123b",
+			"revisionTime": "2018-10-28T12:50:25Z"
+		},
+		{
+			"checksumSHA1": "tLHFmMOC2eMcXYaPXfifUVj3wX4=",
+			"path": "github.com/stretchr/objx",
+			"revision": "35313a95ee26395aa17d366c71a2ccf788fa69b6",
+			"revisionTime": "2019-04-15T11:18:23Z"
+		},
+		{
+			"checksumSHA1": "IIsn0Wdi5rHU8xca+FzDd+YeYlc=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "34c6fa2dc70986bccbbffcc6130f6920a924b075",
+			"revisionTime": "2019-03-04T09:57:49Z"
+		},
+		{
+			"checksumSHA1": "lsdl3fgOiM4Iuy7xjTQxiBtAwB0=",
+			"path": "github.com/stretchr/testify/mock",
+			"revision": "34c6fa2dc70986bccbbffcc6130f6920a924b075",
+			"revisionTime": "2019-03-04T09:57:49Z"
+		}
+	],
+	"rootPath": "github.com/kuzzleio/sdk-go"
+}
